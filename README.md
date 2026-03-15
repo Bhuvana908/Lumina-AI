@@ -11,6 +11,8 @@ and PatchGAN Discriminator trained on the LOL (Low-Light) dataset.
 │   └── models.cpython-312.pyc   # Compiled Python cache
 ├── Notebooks/
 │   └── GAN_Based_Low_Light_Image_Enhancement.ipynb   # Google Colab training notebook
+├── Video/
+│   └── result_video   #output video
 ├── app                          # Application/inference code
 ├── models                       # Model architecture files
 ├── .gitattributes               # Git LFS tracking config
